@@ -241,4 +241,4 @@ dmypy.json
 # file properties cache/storage on macOS
 *.DS_Store
 # thumbnail cache on Windows
-Thumbs.db
+Thumbs.db!/db.sqlite3
